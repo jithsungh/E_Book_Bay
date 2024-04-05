@@ -1,0 +1,150 @@
+* {
+  color: black;
+}
+.body {
+  display: flex;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 15vh;
+  border: 2px solid white;
+  padding: 0px 150px 0px 150px;
+  font-size: 20px;
+  background-color: rgb(107, 233, 107);
+  font-weight: bolder;
+}
+
+.nav {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid white;
+  height: 651px;
+  width: 200px;
+  align-items: center;
+  justify-content: space-evenly;
+  font-size: 15px;
+  font-weight: bold;
+  background-color: #ffdbac;
+}
+.ebay{
+  color:white;
+  font-size: 40px;
+  text-shadow: 1px 1px 4px black;
+}
+.outputs {
+  border: 2px solid white;
+  height: 651px;
+  width: 1330px;
+  font-size: 15px;
+  font-weight: bold;
+  background-color: orange;
+  overflow: auto;
+}
+#home {
+  text-align: center;
+}
+#home h1 {
+  color: blue;
+  font-family: Brush Script MT;
+}
+#home h2 {
+  color: red;
+  font-family: Brush Script MT;
+}
+#login {
+  text-align: center;
+}
+#login h1 {
+  color: purple;
+  font-family: Brush Script MT;
+  font-size: 50px;
+}
+#login button,#register button {
+  margin-right: 30px;
+}
+#register td{
+  padding: 15px;
+}
+td,th ,#login p{
+  padding: 5px 20px 5px 20px;
+  text-shadow: 0.5px 0.5px 3px white;
+}
+th{
+  text-align: center;
+}
+#register{
+  align-items: center;
+}
+table{
+  position: relative;
+  left:50%;
+  transform: translate(-50%,5%);
+}
+#catalogue table{
+  
+  background-color: aliceblue;
+}
+th{
+  color: rgb(255, 61, 61);
+  height:30px;
+}
+input{
+  border-radius: 5px;
+  height:20px;
+}
+button{
+  border-radius: 5px;
+  height:25px;
+  border:none;
+  background-color: rgb(234, 230, 139);
+  font-size: 14px;
+  font-weight: bold;
+  color:rgb(2, 0, 102)
+}
+button:hover{
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+button:active{
+  opacity:0.8;
+}
+#catalogue table,#catalogue td,#catalogue th{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+#register h1{
+  color: blue;
+  font-family:  sans-serif;
+}
+#cse,#ece,#eee,#mech{
+  text-align: center;
+  transform: translateY(50%);
+  
+}
+#cse h1,#ece h1,#eee h1,#mech h1{
+  color: blue;
+
+}
+.home,.login,.register,.catalogue,.cse,.ece,.eee,.mech{
+  cursor: pointer;
+  height:auto;
+  width:auto;
+  padding:5px 10px 5px 10px;
+  border-radius: 5px;
+  text-align: center;
+  background-color: rgb(136, 197, 250);
+  box-shadow: 1px 1px 4px black;
+}
+.home:hover,.login:hover,.register:hover,.catalogue:hover,.cse:hover,.ece:hover,.eee:hover,.mech:hover{
+  background-color: rgb(0, 0, 0);
+  color: white;
+} 
+.home:active,.login:active,.register:active,.catalogue:active,.cse:active,.ece:active,.eee:active,.mech:active{
+  opacity: 0.5;
+}
+#catalogue img{
+  height:120px;
+}
