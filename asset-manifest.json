@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/E_Book_Bay/static/css/main.3d142a44.css",
+    "main.js": "/E_Book_Bay/static/js/main.88943de9.js",
+    "static/media/books.png": "/E_Book_Bay/static/media/books.51e079f5cffd9c3a0eac.png",
+    "static/media/login.png": "/E_Book_Bay/static/media/login.0107ae91ee4be94d3630.png",
+    "static/media/iee.png": "/E_Book_Bay/static/media/iee.dc01400065928b55f984.png",
+    "static/media/efm.png": "/E_Book_Bay/static/media/efm.dd893824144b5880d6a0.png",
+    "static/media/web.png": "/E_Book_Bay/static/media/web.ef4de6c4dbd0b28e1316.png",
+    "static/media/php.png": "/E_Book_Bay/static/media/php.31bc19c6352e8d5c799c.png",
+    "static/media/aar.png": "/E_Book_Bay/static/media/aar.96a67b5b53bb0065a8b4.png",
+    "static/media/dcd.png": "/E_Book_Bay/static/media/dcd.2fff03d37144476434d1.png",
+    "static/media/sas.png": "/E_Book_Bay/static/media/sas.11d392c5afb86ec3b857.png",
+    "static/media/cec.png": "/E_Book_Bay/static/media/cec.398debce96ec56c4013a.png",
+    "index.html": "/E_Book_Bay/index.html",
+    "main.3d142a44.css.map": "/E_Book_Bay/static/css/main.3d142a44.css.map",
+    "main.88943de9.js.map": "/E_Book_Bay/static/js/main.88943de9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d142a44.css",
+    "static/js/main.88943de9.js"
+  ]
+}
