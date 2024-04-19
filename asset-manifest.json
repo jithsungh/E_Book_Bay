@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/E_Book_Bay/static/css/main.3d142a44.css",
-    "main.js": "/E_Book_Bay/static/js/main.88943de9.js",
+    "main.js": "/E_Book_Bay/static/js/main.61af1fb0.js",
     "static/media/books.png": "/E_Book_Bay/static/media/books.51e079f5cffd9c3a0eac.png",
     "static/media/login.png": "/E_Book_Bay/static/media/login.0107ae91ee4be94d3630.png",
     "static/media/iee.png": "/E_Book_Bay/static/media/iee.dc01400065928b55f984.png",
@@ -14,10 +14,10 @@
     "static/media/cec.png": "/E_Book_Bay/static/media/cec.398debce96ec56c4013a.png",
     "index.html": "/E_Book_Bay/index.html",
     "main.3d142a44.css.map": "/E_Book_Bay/static/css/main.3d142a44.css.map",
-    "main.88943de9.js.map": "/E_Book_Bay/static/js/main.88943de9.js.map"
+    "main.61af1fb0.js.map": "/E_Book_Bay/static/js/main.61af1fb0.js.map"
   },
   "entrypoints": [
     "static/css/main.3d142a44.css",
-    "static/js/main.88943de9.js"
+    "static/js/main.61af1fb0.js"
   ]
 }
