@@ -12,10 +12,7 @@ import aar from "./aar.png";
 import efm from "./efm.png";
 const Home = () => {
   const [action, setAction] = useState("home");
-  var audio = new Audio("./addr.mp3");
-  const start = () => {
-    audio.play()
-  }
+
   return (
     <div className="container">
       <div className="header">
@@ -277,7 +274,7 @@ const Home = () => {
                 Quantity
                 <input type="number" />
               </p>
-              <button onClick={ start}>ok</button>
+              <button >ok</button>
               <br />
               <br />
               <p>Cost of one book is Rs.500 + shipping Rs.100</p>
@@ -301,7 +298,7 @@ const Home = () => {
                 Quantity
                 <input type="number" />
               </p>
-              <button onClick={ start}>ok</button>
+              <button >ok</button>
               <br />
               <br />
               <p>Cost of one book is Rs.500 + shipping Rs.100</p>
@@ -325,7 +322,7 @@ const Home = () => {
                 Quantity
                 <input type="number" />
               </p>
-              <button onClick={ start}>ok</button>
+              <button >ok</button>
               <br />
               <br />
               <p>Cost of one book is Rs.500 + shipping Rs.100</p>
@@ -349,7 +346,7 @@ const Home = () => {
                 Quantity
                 <input type="number" />
               </p>
-              <button onClick={ start}>ok</button>
+              <button >ok</button>
               <br />
               <br />
               <p>Cost of one book is Rs.500 + shipping Rs.100</p>{" "}
