@@ -12,7 +12,10 @@ import aar from "./aar.png";
 import efm from "./efm.png";
 const Home = () => {
   const [action, setAction] = useState("home");
-
+  var audio = new Audio("./addr.mp3");
+  const start = () => {
+    audio.play()
+  }
   return (
     <div className="container">
       <div className="header">
